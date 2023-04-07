@@ -9,5 +9,5 @@ net user Administrator "new_password"
 ```
 
 ```
-net user Administrator +Admin@123+
+net user Administrator "+Admin@123+"
 ```
